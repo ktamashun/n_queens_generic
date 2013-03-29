@@ -1,0 +1,271 @@
+START POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 10
+ Best possible rating: 6
+ Average rating: 0
+ Maximum rating: 0
+---------------------------------------------------------
+
+1. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 45
+ Best possible rating: 6
+ Average rating: 0.15555555555556
+ Maximum rating: 2
+---------------------------------------------------------
+
+2. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 0.636
+ Maximum rating: 3
+---------------------------------------------------------
+
+3. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.396
+ Maximum rating: 3
+---------------------------------------------------------
+
+4. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.152
+ Maximum rating: 3
+---------------------------------------------------------
+
+5. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.04
+ Maximum rating: 3
+---------------------------------------------------------
+
+6. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.012
+ Maximum rating: 3
+---------------------------------------------------------
+
+7. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.004
+ Maximum rating: 2
+---------------------------------------------------------
+
+8. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.004
+ Maximum rating: 2
+---------------------------------------------------------
+
+9. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.024
+ Maximum rating: 4
+---------------------------------------------------------
+
+10. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.012
+ Maximum rating: 2
+---------------------------------------------------------
+
+11. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.36
+ Maximum rating: 4
+---------------------------------------------------------
+
+12. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.44
+ Maximum rating: 4
+---------------------------------------------------------
+
+13. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.092
+ Maximum rating: 4
+---------------------------------------------------------
+
+14. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.024
+ Maximum rating: 2
+---------------------------------------------------------
+
+15. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.016
+ Maximum rating: 2
+---------------------------------------------------------
+
+16. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.028
+ Maximum rating: 3
+---------------------------------------------------------
+
+17. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.008
+ Maximum rating: 2
+---------------------------------------------------------
+
+18. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.02
+ Maximum rating: 3
+---------------------------------------------------------
+
+19. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.348
+ Maximum rating: 3
+---------------------------------------------------------
+
+20. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.524
+ Maximum rating: 3
+---------------------------------------------------------
+
+21. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.444
+ Maximum rating: 3
+---------------------------------------------------------
+
+22. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.52
+ Maximum rating: 3
+---------------------------------------------------------
+
+23. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.18
+ Maximum rating: 3
+---------------------------------------------------------
+
+24. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.464
+ Maximum rating: 3
+---------------------------------------------------------
+
+25. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+26. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.008
+ Maximum rating: 2
+---------------------------------------------------------
+
+27. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.012
+ Maximum rating: 2
+---------------------------------------------------------
+
+28. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 6
+ Population size: 250
+ Best possible rating: 6
+ Average rating: 1.04
+ Maximum rating: 6
+---------------------------------------------------------
+
+WINNER SOLUTION: 
+
+. . X . . . 
+. . . . . X 
+. X . . . . 
+. . . . X . 
+X . . . . . 
+. . . X . . 
+
+

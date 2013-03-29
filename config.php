@@ -8,6 +8,6 @@
  */
 
 define('APP_PATH', __DIR__);
-define('NUMBER_OF_QUEENS', 5);
-define('MAX_POPULATION_SIZE', 50);
+define('NUMBER_OF_QUEENS', 6);
+define('MAX_POPULATION_SIZE', 250);
 define('FIRST_POPULATION_SIZE', 10);

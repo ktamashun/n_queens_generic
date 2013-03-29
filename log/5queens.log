@@ -1,0 +1,225 @@
+START POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 10
+ Best possible rating: 5
+ Average rating: 0
+ Maximum rating: 0
+---------------------------------------------------------
+
+1. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 45
+ Best possible rating: 5
+ Average rating: 0.044444444444444
+ Maximum rating: 1
+---------------------------------------------------------
+
+2. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.18
+ Maximum rating: 3
+---------------------------------------------------------
+
+3. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.08
+ Maximum rating: 2
+---------------------------------------------------------
+
+4. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+5. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+6. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+7. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+8. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+9. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.06
+ Maximum rating: 2
+---------------------------------------------------------
+
+10. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.04
+ Maximum rating: 2
+---------------------------------------------------------
+
+11. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+12. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.04
+ Maximum rating: 2
+---------------------------------------------------------
+
+13. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.02
+ Maximum rating: 2
+---------------------------------------------------------
+
+14. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+15. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.04
+ Maximum rating: 2
+---------------------------------------------------------
+
+16. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.02
+ Maximum rating: 2
+---------------------------------------------------------
+
+17. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1
+ Maximum rating: 1
+---------------------------------------------------------
+
+18. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.04
+ Maximum rating: 2
+---------------------------------------------------------
+
+19. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.02
+ Maximum rating: 2
+---------------------------------------------------------
+
+20. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.04
+ Maximum rating: 2
+---------------------------------------------------------
+
+21. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.02
+ Maximum rating: 2
+---------------------------------------------------------
+
+22. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.44
+ Maximum rating: 2
+---------------------------------------------------------
+
+23. POPULATION: 
+---------------------------------------------------------
+ Number of queens: 5
+ Population size: 50
+ Best possible rating: 5
+ Average rating: 1.26
+ Maximum rating: 5
+---------------------------------------------------------
+
+WINNER SOLUTION: 
+
+. . . . X 
+. X . . . 
+. . . X . 
+X . . . . 
+. . X . . 
+
+

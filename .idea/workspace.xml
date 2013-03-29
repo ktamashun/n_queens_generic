@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9129863c-7a04-46fd-bde7-dd0a59f45010" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/n_queens_generic.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Render/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Render/Cli.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Generic/Problem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Nqueens/Problem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Generic/Specimen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Nqueens/Specimen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
     </list>
     <ignored path="n_queens_generic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,7 +46,7 @@
       <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="28" selection-start="229" selection-end="229" vertical-scroll-proportion="0.18159807">
+            <state line="12" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.21791768">
               <folding>
                 <element signature="e#6#170#0" expanded="true" />
               </folding>
@@ -458,7 +450,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="229" selection-end="229" vertical-scroll-proportion="0.18159807">
+        <state line="12" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.21791768">
           <folding>
             <element signature="e#6#170#0" expanded="true" />
           </folding>
