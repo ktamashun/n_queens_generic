@@ -26,7 +26,6 @@ class Specimen extends Generic\Specimen
         }
 
         $rating = 0;
-        //$this->_chromosomes = array(1 => 2, 2 => 1, 3 => 1, 4 => 1);
 
         for ($i = 1; $i <= $this->_chromosomeNumber; $i++) {
             $result = 0;
@@ -71,8 +70,6 @@ class Specimen extends Generic\Specimen
 
     protected function _testPositions($queen1, $queen2)
     {
-        //echo '(' . $queen1[0] . ', ' . $queen1[1] . ') VS. (' . $queen2[0] . ', ' . $queen2[1] . ')' . "\n";
-
         if ($queen1[0] == $queen2[0]) {
             return 0;
         }
